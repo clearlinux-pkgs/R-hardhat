@@ -7,7 +7,7 @@
 #
 Name     : R-hardhat
 Version  : 1.3.1
-Release  : 15
+Release  : 16
 URL      : https://cran.r-project.org/src/contrib/hardhat_1.3.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/hardhat_1.3.1.tar.gz
 Summary  : Construct Modeling Packages
